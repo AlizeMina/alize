@@ -292,5 +292,6 @@
     container.appendChild(terminal)
     update()
     print("欢迎来到模拟终端！（彩蛋版本 :1.1）",'warning')
+    print('完整功能版个人网页请访问<span style="color: #ffbc00">https://alizemina.github.io/alize</span>','warning')
     print('输入 <span style="color: #ffbc00">help</span> 查看可用命令列表。增加输入 <span style="color: #ffbc00">visit</span> 空格 网址可前往该地址（必须包含https://），输入 <span style="color: #ffbc00">douyin</span> 空格 视频地址。</span> 可解析该视频。','warning')
 })()
